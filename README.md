@@ -1,16 +1,16 @@
-### Hi there 👋
+Hey, there!\
+This is Pragati here!\
+And my skills are :\
+**C++\
+Machine Learning using Python\
+C\
+AWS\
+PowerBI\
+I also have an experience with Image Processing using Python.** \
+Reach me out at -\
+Email - **pragatigs02@gmail.com, pragatigs@outlook.com**\
+LinkedIn - **https://www.linkedin.com/in/pragati-sawkar-153838207/** \
+Open for collaborations which require above skillset.
 
-<!--
-**pragatigs/pragatigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**_"First, solve the problem. Then, write the code."_** 
+                         
