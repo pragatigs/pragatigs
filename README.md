@@ -1,5 +1,4 @@
 Hey, there!\
-This is Pragati here!\
 And my skills are :\
 **C++\
 Machine Learning using Python\
